@@ -115,7 +115,7 @@ This EDA provides a clear view of retail sales performance across customer demog
 👤 Author
 
 Prince
-🔗 GitHub Profile
+🔗 [GitHub Profile](https://github.com/prince7046)
 
 📄 License
 
